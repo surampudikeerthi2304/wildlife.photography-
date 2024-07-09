@@ -1,0 +1,194 @@
+body{
+
+	 background: black;
+
+
+}
+
+.text1{
+
+	
+		color: white; 
+		text-align: center ;
+
+
+ 	}
+
+ 	.container1{
+
+ 			
+ 			position: relative;
+ 			text-align: center;
+ 			color: white;
+
+ 	}	
+
+ 	.font1{
+
+ 			position: absolute;
+ 			top: 170px;
+ 			left: 430px;
+ 			text-align: center;
+
+ 	}
+    .btn{
+
+            border: white;
+            padding: 10px;
+            padding-left: 25px;
+            padding-right: 25px;
+            border-radius: 50px;
+
+
+    }
+  
+     .text2{
+
+     		color: white;
+     		text-align: center;
+     		padding-top: 50px;
+     
+     		
+   		
+   		  }
+
+   		
+
+     .pic1{
+
+     		padding-left:200px ;
+
+  	   }
+
+  	   .container2{
+
+  	   			position: relative;
+  	   			color: white;
+  	   }
+
+  	   .font2{
+
+  	   		position: absolute;
+  	   		top: 140px;
+  	   		padding-left: 17px;
+
+
+
+  	   }
+
+
+     .pic2{
+
+     	float: right;
+     	padding-right: 300px;
+
+
+
+     }
+
+     .pic3{
+
+     	float:right;
+     	padding-left:140px;
+     
+
+
+     }
+     
+     
+
+      .pic4{
+
+      		padding-right: 8px;
+
+
+
+      }
+      .container4{
+
+      	position: relative;
+      	text-align: center;
+      	color: white;
+
+      .font4{
+
+
+      	position: absolute;
+      	text-align: center;
+      	top: 200px;
+      	left: 250px;
+      }
+
+      .text7{
+
+      	  color: white;
+      	  text-align:center;
+
+      }
+
+      .pic5{
+
+      	 padding-left: 15px;
+     
+      }
+
+      .pic6{
+
+      		padding-left: 290px;
+      }
+
+     .pic7{
+
+     	 float: right;
+     	 padding-right: 320px;
+
+     }
+
+
+     .text8{
+
+     		color: white;
+     		text-align: center;
+     }
+     .pic8{
+
+     	padding-left: 290px;
+     }
+
+     .pic9{
+
+     	float: right;
+     	padding-right:346px;
+     }
+
+     .pic10{
+
+     	float: right;
+     	padding-left: 8px;
+     }
+
+     .pic11{
+
+     		float: right;
+     		padding-left: 4px;
+     }
+
+     .text9{
+
+            float: right;
+            padding-right: 400px;
+            
+
+     }
+     .text10{
+
+            padding-left: 500px;
+
+     }
+     .text11{
+
+        float: left;
+        padding-left: 340px;
+     }
+
+
